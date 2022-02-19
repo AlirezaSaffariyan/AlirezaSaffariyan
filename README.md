@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlirezaSaffariyan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate to learn programming better
+- 🌱 I’m currently learning C# and Java
 - 📫 How to reach me:
 - Email: ar.saffariyan@gmail.com
 - Telegram: t.me/AlirezaSaffaryan
