@@ -1,5 +1,5 @@
 - Hi, I’m Alireza Saffariyan
-- I’m interested in programming
+- I’m interested in Programming and Cyber Security
 - I’m currently learning C# and Python
 - I'm looking for someone to learn together and build projects
 
