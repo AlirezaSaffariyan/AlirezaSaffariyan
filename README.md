@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C# and Java
 - 📫 How to reach me:
 - Email: ar.saffariyan@gmail.com
-- Telegram: t.me/AlirezaSaffaryan
-- Instagram: instagram.com/ar.saffariyan
+- Telegram: https://t.me/AlirezaSaffaryan
+- Instagram: https://instagram.com/ar.saffariyan
 
 <!---
 AlirezaSaffariyan/AlirezaSaffariyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
