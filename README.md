@@ -1,5 +1,5 @@
 - Hi, I’m Alireza Saffariyan
-- I’m interested in Programming and Cyber Security
+- I’m interested in Web Development and Cyber Security
 - I’m currently learning Python, Django, and Linux
 - I'm looking for someone to learn together and build projects
 
