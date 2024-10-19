@@ -6,9 +6,9 @@ My skills:
 | Field     | Skill                                   |
 |-----------|--------------------------------------------|
 | Languages | Python🐍 , C#, Java, PHP, Bash                   |
-| Technologies | Python FastAPI, C# WPF                   |
+| Technologies | Python's FastAPI, C# WPF                   |
 | Backend   | Django, PostgreSQL, MySql, MongoDB |
-| DevOps    | Linux🐧, Git, Docker🐳, Shell Scripting   |
+| DevOps    | Linux🐧, Git, Docker🐳, Kubernetes, Shell Scripting   |
 | IDE       | NeoVim🗿                                    |
 
 I live in my terminal⌨️
