@@ -2,7 +2,7 @@
   
 # 🚀 Welcome to My Digital Universe! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alireza+Saffariyan!;A+passionate+Computer+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alireza+Saffariyan!;A+Computer+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
 
 ### 🎓 Studying Computer Engineering 
 ### 🏛️ Mohajer Technical And Vocational College of Isfahan
