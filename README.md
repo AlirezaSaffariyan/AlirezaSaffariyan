@@ -70,6 +70,6 @@
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaffariyan&theme=dark)
-![Alireza's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AlirezaSaffariyan&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=AlirezaSaffariyan&theme=catppuccin_mocha&show_icons=true))
+![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaSaffariyan&theme=catppuccin_mocha&show_icons=true)
 
 </div>
