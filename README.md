@@ -70,6 +70,5 @@
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaffariyan&theme=catppuccin_mocha)
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaSaffariyan&theme=catppuccin_mocha&show_icons=true)
 
 </div>
