@@ -70,5 +70,7 @@
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaffariyan&theme=catppuccin_mocha)
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezasaffariyan&theme=nightowl)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alirezasaffariyan&theme=nightowl&utcOffset=3.30)
 
 </div>
