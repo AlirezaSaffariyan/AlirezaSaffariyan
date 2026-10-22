@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alireza+Saffariyan!;A+Computer+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
 
-### 🎓 Studying Computer Engineering 
-### 🏛️ Mohajer Technical And Vocational College of Isfahan
+### 🎓 Computer Engineering Graduate
 
 [![Email](https://img.shields.io/badge/Gmail-ar.saffariyan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar.saffariyan@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-AlirezaSaffariyan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlirezaSaffariyan)
